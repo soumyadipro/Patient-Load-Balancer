@@ -1,0 +1,11 @@
+ID,Name,Hospital id,Waiting Q
+T01,AMA test,H101,2
+T02,APTT test,H102,4
+T03,ABG test,H103,3
+T04,CT scan,H104,5
+T05,Blood sugar test,H105,7
+T06,Bilirubin test,H106,4
+T07,lipid profile,H107,8
+T08,Amylase test,H108,34
+T09,Blood test,H109,6
+T10,Bone scan,H110,7

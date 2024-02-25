@@ -1,0 +1,11 @@
+doctor ID,Name,Hospital id,Specialization,WaitingQ
+D101,Nilesh,H101,Cardio speacialist,3
+D102,Ramesh,H102,Allergist,5
+D103,Suresh,H103,Nephrologist,2
+D104,Charan,H104,Orhtopedics,7
+D105,Susila,H105,dermatology,23
+D106,Sampa,H106,Gaestroentrology,45
+D107,Sekhar,H107,Gyanaecology,13
+D108,Sanjivani,H108,General surgery,67
+D109,Rohan,H109,Radiology,3
+D110,Shriya,H110,Plastic Surgery,5

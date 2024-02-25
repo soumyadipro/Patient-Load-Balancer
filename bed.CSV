@@ -1,0 +1,11 @@
+ID,Type,Hospital_id,Availaible
+B101,ICU beds,H101,Yes
+B102,Critical care beds,H102,No
+B103,Long term care beds,H103,Yes
+B104,Adjustable beds,H104,No
+B105,Speciality Hospital beds,H105,Yes
+B106,Rehabilitative care beds,H106,No
+B107,Collapsible beds,H107,Yes
+B108,low air loss bed,H108,No
+B109,Electric beds,H109,Yes
+B110,Ventilator beds,H110,No
